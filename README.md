@@ -17,7 +17,7 @@ I'm **Pervej Chowkider**, an **undergraduate CSE student**. Passionate about sof
 
 #### 📫 Connect with Me
 - 📧 Email: [pervejbd2029@gmail.com](mailto:pervejbd2029@gmail.com)
-- 💼 LinkedIn: [CM Pervej]https://www.linkedin.com/in/cmpervej/)
+- 💼 LinkedIn: []https://www.linkedin.com/in/cmpervej/)
 
 #### ⚡ Fun Fact
 I love solving complex problems and optimizing system performance. Always exploring new technologies to stay ahead in the game! 🚀
