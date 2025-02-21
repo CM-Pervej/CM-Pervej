@@ -6,7 +6,7 @@ I'm **Pervej Chowkider**, an **undergraduate CSE student**. Passionate about sof
 #### 💻 Tech Stack
 - **Programming Languages:** C, Python
 - **Frontend:** React.js, HTML, Tailwind CSS, DaisyUI, Botstrap
-- **Backend Frameworks:** Laravel
+- **Backend Frameworks:** PHP, Laravel
 - **Database:** MySQL
 - **DevOps & Cloud:** AWS
 - **Version Control:** Git, GitHub
