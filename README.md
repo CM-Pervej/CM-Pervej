@@ -125,11 +125,25 @@ Graduated: 2025 | CGPA: 3.04 / 4.00
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CM-Pervej&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CM-Pervej&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  <i>Tracking contributions, coding activity, and open-source engagement.</i>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=CM-Pervej&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Statistics"/>
+  <img src="https://streak-stats.demolab.com?user=CM-Pervej&theme=tokyonight&hide_border=true" height="180" alt="GitHub Contribution Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CM-Pervej&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Most Used Programming Languages"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CM-Pervej?tab=repositories">Explore Repositories</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/CM-Pervej?tab=overview">Contribution Overview</a>
 </p>
 
 ---
