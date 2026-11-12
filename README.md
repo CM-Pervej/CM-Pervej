@@ -33,24 +33,43 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 - **Frontend Engineering:** Responsive Web Design, DOM Manipulation, Form Handling, Client-Side Validation.
 - **Development Practices:** Git Version Control, Debugging, Troubleshooting, Code Reusability, Code Maintainability.
 
-## Professional Experience
+## 💼 Experience
 
-**Backend Developer Intern — AmarEvent**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*January 2025 – June 2025 | Remote*
+### 💻 Backend Developer Intern
 
-- Worked on Laravel-based web application development.
-- Gained practical experience with MVC architecture and backend functionality.
-- Contributed to event management application development.
+**AmarEvent**
 
-## 💼 Additional Experience
+<sub>January 2025 – June 2025 · Remote</sub>
 
-**AI Trainer & Evaluator — Outlier**
+- Developed Laravel-based web application features.
+- Worked with MVC architecture and backend functionality.
+- Gained practical experience in event management application development.
 
-- Evaluated AI-generated responses for accuracy, relevance, and quality.
-- Worked on prompt-based tasks and AI response assessment.
-- Reviewed code-related outputs and assessed programming solutions.
-- Contributed to improving AI model performance through structured feedback.
+**Technologies:** PHP · Laravel · MySQL
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Trainer & Evaluator
+
+**Outlier**
+
+<sub>AI Training & Evaluation · Freelance</sub>
+
+- Evaluated AI-generated responses for accuracy and relevance.
+- Worked on prompt-based tasks and response assessment.
+- Reviewed programming-related outputs and solutions.
+- Provided structured feedback to improve AI-generated results.
+
+**Focus:** AI Evaluation · Prompt Writing · Code Assessment
+
+</td>
+</tr>
+</table>
   
 ## 🚀 Featured Projects
 
