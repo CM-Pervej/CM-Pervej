@@ -14,7 +14,7 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 | Category | Technologies & Tools |
 |---|---|
 | **Programming Languages** | PHP, JavaScript, Python, C, C++ |
-| **Backend Development** | Laravel, PHP, Laravel Blade, Eloquent ORM, Query Builder, REST APIs |
+| **Backend Development** | Laravel, Core PHP, Laravel Blade, Eloquent ORM, Query Builder, REST APIs |
 | **Frontend Development** | HTML5, CSS3, JavaScript, DOM Manipulation, Tailwind CSS, DaisyUI, Bootstrap |
 | **JavaScript & UI Ecosystem** | Vue.js, Vite, Lucide Icons |
 | **Database & Data Management** | MySQL, SQL, Relational Databases |
