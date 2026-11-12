@@ -148,21 +148,28 @@ Graduated: 2025 | CGPA: 3.04 / 4.00
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/cmpervej/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://cmpervej.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Portfolio"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:pervejbd2029@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/CM-Pervej">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub"/>
   </a>
+</p>
+
+<p align="center">
+  <sub>LinkedIn · Portfolio · Email · GitHub</sub>
 </p>
 
 ---
