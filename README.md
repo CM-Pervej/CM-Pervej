@@ -11,13 +11,16 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 
 ## 🛠️ Technical Skills
 
-| Category | Technologies |
+| Category | Technologies & Tools |
 |---|---|
-| **Languages** | PHP, JavaScript, Python, C, C++ |
-| **Backend Development** | Laravel, PHP, MVC, OOP, REST APIs, Authentication & Authorization |
-| **Frontend Development** | HTML5, CSS3, Tailwind CSS, DaisyUI, Bootstrap |
-| **Database** | MySQL, SQL, Eloquent ORM, Query Builder |
-| **Tools & Platforms** | Git, GitHub, Postman, VS Code, XAMPP |
+| **Programming Languages** | PHP, JavaScript, Python, C, C++ |
+| **Backend Development** | Laravel, PHP, Laravel Blade, Eloquent ORM, Query Builder, REST APIs |
+| **Frontend Development** | HTML5, CSS3, JavaScript, DOM Manipulation, Tailwind CSS, DaisyUI, Bootstrap |
+| **JavaScript & UI Ecosystem** | Vue.js, Vite, Lucide Icons |
+| **Database & Data Management** | MySQL, SQL, Relational Databases |
+| **Authentication & API Tools** | Session Authentication, Laravel Sanctum (Basic), JWT (Basic), Postman |
+| **Development Tools** | Git, GitHub, Composer, VS Code, XAMPP |
+| **Libraries & Utilities** | jsPDF, JSON |
 
 ## 🧠 Core Concepts
 
