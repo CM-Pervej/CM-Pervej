@@ -1,114 +1,123 @@
-# 👋 Hi, I'm Pervej Chowkider
+# Pervej Chowkider
+### Junior Software Engineer | PHP & Laravel Developer
 
-### 💻 Junior Full-Stack / Backend Developer
+**B.Sc. in Computer Science & Engineering** — Jashore University of Science & Technology (JUST)
 
-I'm a **CSE graduate from Jashore University of Science & Technology (JUST)** passionate about building **real-world web applications, backend systems, RESTful APIs, and database-driven solutions**.
+I'm a software developer focused on building maintainable, database-driven web applications using **PHP, Laravel, MySQL, and JavaScript**. I have practical experience with backend development, MVC architecture, authentication, database design, and responsive user interfaces through professional internship experience and independent projects.
 
-I primarily work with **PHP, Laravel, MySQL, JavaScript, and Tailwind CSS**, while continuously improving my skills in software architecture, clean code, and system design.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-C • C++ • PHP • Python • JavaScript
-
-**Frontend**
-HTML5 • CSS3 • Tailwind CSS • DaisyUI • Bootstrap
-
-**Backend**
-PHP • Laravel • REST APIs • JWT • MVC • OOP
-
-**Database & Tools**
-MySQL • Git • GitHub • Postman • VS Code • XAMPP
+I enjoy solving real-world problems, writing clean and maintainable code, and continuously improving my software engineering skills.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Category | Technologies |
+|---|---|
+| **Languages** | PHP, JavaScript, Python, C, C++ |
+| **Backend Development** | Laravel, PHP, MVC, OOP, REST APIs, Authentication & Authorization |
+| **Frontend Development** | HTML5, CSS3, Tailwind CSS, DaisyUI, Bootstrap |
+| **Database** | MySQL, SQL, Eloquent ORM, Query Builder |
+| **Tools & Platforms** | Git, GitHub, Postman, VS Code, XAMPP |
+| **Core Concepts** | Database Design, CRUD Operations, RBAC, Software Architecture |
 
-### 💰 Automated Payroll Management System
+## Professional Experience
 
-**PHP • MySQL • JavaScript • Tailwind CSS**
+**Backend Developer Intern — AmarEvent**
 
-A web-based payroll management system developed as my final-year project at JUST, featuring employee management, payroll processing, and administrative functionality.
+*January 2025 – June 2025 | Remote*
 
-🔗 [View Repository →](https://github.com/CM-Pervej/Automated-Payroll-Management-System)
+- Worked on Laravel-based web application development.
+- Gained practical experience with MVC architecture and backend functionality.
+- Contributed to event management application development.
 
-</td>
-<td width="50%" valign="top">
+## Featured Projects
 
-### 🗂️ CareerVault
+### 1. CareerVault
+**Laravel · PHP · MySQL · Blade · JavaScript · Tailwind CSS**
 
-**Laravel • PHP • MySQL • Tailwind CSS**
+A career information and management platform designed to centralize company information, job platforms, career portals, professional contacts, and job-search activities.
 
-A career and job-search information management platform for organizing companies, job platforms, career pages, industries, locations, and digital presence.
+- Centralized company and job-platform information.
+- Organized companies, industries, locations, and professional contacts.
+- Career application and interview management.
+- Administrative management with role-based access control.
 
-🔗 [View Repository →](https://github.com/CM-Pervej/CareerVault)
+[Repository](https://github.com/CM-Pervej/CareerVault)
 
-</td>
-</tr>
+### 2. Automated Payroll Management System
+**PHP · MySQL · JavaScript · Tailwind CSS**
 
-<tr>
-<td width="50%" valign="top">
+A web-based payroll management application developed as my undergraduate final-year project.
 
-### 📅 Event Management System
+- Employee and user management.
+- Payroll processing and salary calculations.
+- Salary increments, allowances, and duty management.
+- Role-based administrative functionality and reporting.
 
-**PHP • MySQL • Tailwind CSS • JavaScript**
+[Repository](https://github.com/CM-Pervej/Automated-Payroll-Management-System)
 
-A database-driven web application for managing events and related information with a responsive interface.
+### 3. Event Management System
+**PHP · MySQL · JavaScript · Tailwind CSS**
 
-🔗 [View Repository →](https://github.com/CM-Pervej/Event-Management-System)
+A database-driven web application for managing events and related information, with a responsive user interface.
 
-</td>
-<td width="50%" valign="top">
+[Repository](https://github.com/CM-Pervej/Event-Management-System)
 
-### 🔐 TaskFusion
+### 4. TaskFusion
+**PHP · MySQL · JWT · REST API**
 
-**PHP • MySQL • JWT • REST API**
+A task management application focused on backend functionality, authentication, authorization, and API-based application development.
 
-A task-management application focused on authentication, authorization, API development, and backend architecture.
-
-🔗 [View Repository →](https://github.com/CM-Pervej/TaskFusion)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌱 Currently Learning
-
-🚀 Advanced Laravel & PHP
-🏗️ Software Architecture & Design Patterns
-🗄️ Database Optimization
-☁️ Deployment & Cloud Technologies
-🐍 Python & AI
+[Repository](https://github.com/CM-Pervej/TaskFusion)
 
 ---
 
-## 📊 GitHub
+## Education
+
+**B.Sc. in Computer Science & Engineering (CSE)**  
+Jashore University of Science & Technology (JUST)  
+Graduated: 2025 | CGPA: 3.04 / 4.00
+
+---
+
+## Currently Learning
+
+- Advanced PHP & Laravel development
+- Software architecture and design patterns
+- Database optimization and query performance
+- Docker, AWS, and application deployment
+- Modern backend development practices
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CM-Pervej&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=CM-Pervej&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CM-Pervej&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## Connect With Me
 
-<p align="center">
-  <a href="mailto:pervejbd2029@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="left">
   <a href="https://www.linkedin.com/in/cmpervej/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://cmpervej.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:pervejbd2029@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/CM-Pervej">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
+---
+
 <p align="center">
-  <i>Build • Learn • Improve • Repeat 🚀</i>
+  <i>Building practical solutions through continuous learning and development.</i>
 </p>
