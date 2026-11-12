@@ -40,6 +40,15 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 - Gained practical experience with MVC architecture and backend functionality.
 - Contributed to event management application development.
 
+## 💼 Additional Experience
+
+**AI Trainer & Evaluator — Outlier**
+
+- Evaluated AI-generated responses for accuracy, relevance, and quality.
+- Worked on prompt-based tasks and AI response assessment.
+- Reviewed code-related outputs and assessed programming solutions.
+- Contributed to improving AI model performance through structured feedback.
+  
 ## Featured Projects
 
 ### 1. CareerVault
