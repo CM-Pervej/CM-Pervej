@@ -52,45 +52,58 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 - Reviewed code-related outputs and assessed programming solutions.
 - Contributed to improving AI model performance through structured feedback.
   
-## Featured Projects
+## 🚀 Featured Projects
 
-### 1. CareerVault
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 CareerVault
+
 **Laravel · PHP · MySQL · Blade · JavaScript · Tailwind CSS**
 
-A career information and management platform designed to centralize company information, job platforms, career portals, professional contacts, and job-search activities.
+A career information and management platform for organizing companies, job platforms, career portals, industries, professional contacts, applications, and interviews.
 
-- Centralized company and job-platform information.
-- Organized companies, industries, locations, and professional contacts.
-- Career application and interview management.
-- Administrative management with role-based access control.
+[**View Repository →**](https://github.com/CM-Pervej/CareerVault)
 
-[Repository](https://github.com/CM-Pervej/CareerVault)
+</td>
+<td width="50%" valign="top">
 
-### 2. Automated Payroll Management System
+### 💰 Automated Payroll Management System
+
 **PHP · MySQL · JavaScript · Tailwind CSS**
 
-A web-based payroll management application developed as my undergraduate final-year project.
+A web-based payroll management system developed as my undergraduate final-year project, featuring employee management, payroll processing, salary increments, allowances, and administrative functionality.
 
-- Employee and user management.
-- Payroll processing and salary calculations.
-- Salary increments, allowances, and duty management.
-- Role-based administrative functionality and reporting.
+[**View Repository →**](https://github.com/CM-Pervej/Automated-Payroll-Management-System)
 
-[Repository](https://github.com/CM-Pervej/Automated-Payroll-Management-System)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 3. Event Management System
+### 📅 Event Management System
+
 **PHP · MySQL · JavaScript · Tailwind CSS**
 
-A database-driven web application for managing events and related information, with a responsive user interface.
+A database-driven web application for managing events and related information, featuring backend functionality and a responsive user interface.
 
-[Repository](https://github.com/CM-Pervej/Event-Management-System)
+[**View Repository →**](https://github.com/CM-Pervej/Event-Management-System)
 
-### 4. TaskFusion
+</td>
+<td width="50%" valign="top">
+
+### 🔐 TaskFusion
+
 **PHP · MySQL · JWT · REST API**
 
-A task management application focused on backend functionality, authentication, authorization, and API-based application development.
+A task management application focused on authentication, authorization, API development, and backend application architecture.
 
-[Repository](https://github.com/CM-Pervej/TaskFusion)
+[**View Repository →**](https://github.com/CM-Pervej/TaskFusion)
+
+</td>
+</tr>
+</table>
 
 ---
 
