@@ -9,7 +9,7 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 | Category | Technologies |
 |---|---|
@@ -18,7 +18,17 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 | **Frontend Development** | HTML5, CSS3, Tailwind CSS, DaisyUI, Bootstrap |
 | **Database** | MySQL, SQL, Eloquent ORM, Query Builder |
 | **Tools & Platforms** | Git, GitHub, Postman, VS Code, XAMPP |
-| **Core Concepts** | Database Design, CRUD Operations, RBAC, Software Architecture |
+
+## 🧠 Core Concepts
+
+- **Programming:** Object-Oriented Programming (OOP), Procedural Programming, Data Structures & Algorithms, MVC Architecture.
+- **Backend Engineering:** Routing, Middleware, Request Lifecycle, Form Requests, Validation, Exception Handling, CRUD Operations.
+- **Authentication & Security:** Authentication, Authorization, Session Management, JWT, Role-Based Access Control (RBAC), Password Hashing.
+- **Database Management:** Relational Database Design, Database Normalization, Database Relationships, Migrations, Seeders, Transactions, Query Optimization.
+- **API Development:** RESTful API Design, HTTP Methods, HTTP Status Codes, JSON Handling, API Authentication.
+- **Software Engineering:** Separation of Concerns, DRY, SOLID Principles, Clean Code, Modular Development, Design Patterns, Software Architecture.
+- **Frontend Engineering:** Responsive Web Design, DOM Manipulation, Form Handling, Client-Side Validation.
+- **Development Practices:** Git Version Control, Debugging, Troubleshooting, Code Reusability, Code Maintainability.
 
 ## Professional Experience
 
